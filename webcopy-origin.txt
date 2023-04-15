@@ -1,0 +1,168 @@
+Uri: https://www.FlokiGrowCeo.cc/
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\index.htm
+Content Type: text/html
+
+Uri: https://www.FlokiGrowCeo.cc/%40lottiefiles/lottie-player%401.7.1/dist/lottie-player.js
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\@lottiefiles\lottie-player@1.7.1\dist\lottie-player.js
+Content Type: application/javascript
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/font-awesome/6.2.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\font-awesome\6.2.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/font-awesome/6.2.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\font-awesome\6.2.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/font-awesome/6.2.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\font-awesome\6.2.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/font-awesome/6.2.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\font-awesome\6.2.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/font-awesome/6.2.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\font-awesome\6.2.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\font-awesome\6.2.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\font-awesome\6.2.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/font-awesome/6.2.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\font-awesome\6.2.0\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/font-awesome/6.2.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\font-awesome\6.2.0\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.FlokiGrowCeo.cc/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.FlokiGrowCeo.cc/boxicons%402.1.2/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\boxicons@2.1.2\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://www.FlokiGrowCeo.cc/boxicons%402.1.2/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\boxicons@2.1.2\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.FlokiGrowCeo.cc/boxicons%402.1.2/fonts/boxicons.svg
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\boxicons@2.1.2\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.FlokiGrowCeo.cc/boxicons%402.1.2/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\boxicons@2.1.2\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.FlokiGrowCeo.cc/boxicons%402.1.2/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\boxicons@2.1.2\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://www.FlokiGrowCeo.cc/boxicons%402.1.2/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\boxicons@2.1.2\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.FlokiGrowCeo.cc/css-1
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\css-1
+Content Type: application/octet-stream
+
+Uri: https://www.FlokiGrowCeo.cc/css/Atmospheric.woff2
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\css\Atmospheric.woff2
+Content Type: font/woff2
+
+Uri: https://www.FlokiGrowCeo.cc/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.FlokiGrowCeo.cc/css/profile.css
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\css\profile.css
+Content Type: text/css
+
+Uri: https://www.FlokiGrowCeo.cc/css/site.css
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\css\site.css
+Content Type: text/css
+
+Uri: https://www.FlokiGrowCeo.cc/css/util.css
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\css\util.css
+Content Type: text/css
+
+Uri: https://www.FlokiGrowCeo.cc/img/bg1m.jpg
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\bg1m.jpg
+Content Type: image/jpeg
+
+Uri: https://www.FlokiGrowCeo.cc/img/bg5.png
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\bg5.png
+Content Type: image/png
+
+Uri: https://www.FlokiGrowCeo.cc/img/bg7.jpg
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\bg7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.FlokiGrowCeo.cc/img/cg.webp
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\cg.webp
+Content Type: image/webp
+
+Uri: https://www.FlokiGrowCeo.cc/img/cmc.png
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\cmc.png
+Content Type: image/png
+
+Uri: https://www.FlokiGrowCeo.cc/img/dextools_logo.png
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\dextools_logo.png
+Content Type: image/png
+
+Uri: https://www.FlokiGrowCeo.cc/img/EverSAFU Team.png
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\EverSAFU Team.png
+Content Type: image/png
+
+Uri: https://www.FlokiGrowCeo.cc/img/FlokiGrowCeo.gif
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\FlokiGrowCeo.gif
+Content Type: image/gif
+
+Uri: https://www.FlokiGrowCeo.cc/img/FlokiGrowCeo.png
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\FlokiGrowCeo.png
+Content Type: image/png
+
+Uri: https://www.FlokiGrowCeo.cc/img/Logo_Old.png
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\img\Logo_Old.png
+Content Type: image/png
+
+Uri: https://www.FlokiGrowCeo.cc/index.htm
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\index-1.htm
+Content Type: text/html
+
+Uri: https://www.FlokiGrowCeo.cc/js/abi.js
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\js\abi.js
+Content Type: application/javascript
+
+Uri: https://www.FlokiGrowCeo.cc/js/common.js
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\js\common.js
+Content Type: application/javascript
+
+Uri: https://www.FlokiGrowCeo.cc/js/init.js
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\js\init.js
+Content Type: application/javascript
+
+Uri: https://www.FlokiGrowCeo.cc/js/profile.js
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\js\profile.js
+Content Type: application/javascript
+
+Uri: https://www.FlokiGrowCeo.cc/npm/bootstrap%405.2.0-beta1/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\npm\bootstrap@5.2.0-beta1\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.FlokiGrowCeo.cc/npm/bootstrap%405.2.0/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\npm\bootstrap@5.2.0\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.FlokiGrowCeo.cc/npm/web3%40latest/dist/web3.min.js
+File Name: C:\Downloaded Web Sites\www.FlokiGrowCeo.cc\npm\web3@latest\dist\web3.min.js
+Content Type: application/javascript
+
